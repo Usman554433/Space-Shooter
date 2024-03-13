@@ -8,6 +8,9 @@ Welcome to the Space Shooter game README! Embark on an exciting journey through 
 - Ahmed Naeem: l211820@lhr.nu.edu.pk
 - Taieb Badar: l217563@lhr.nu.edu.pk
 
+- ![1](https://github.com/Usman554433/Space-Shooter/assets/129150855/7691f0c1-3215-4c0a-9ef3-efb2893a59b6)
+
+
 ## Features:
 - Interactive Gameplay: Immerse yourself in an engaging gameplay experience where you control a spaceship, dodging asteroids and shooting down aliens.
 - Dynamic Levels: As you progress through the game, the difficulty increases with each level, offering new challenges and obstacles to overcome.
@@ -15,6 +18,8 @@ Welcome to the Space Shooter game README! Embark on an exciting journey through 
 - Customizable Settings: Tailor your gaming experience with settings to adjust alien movement and difficulty levels.
 
 ## How to Play:
+- ![2](https://github.com/Usman554433/Space-Shooter/assets/129150855/3bf8325e-dfb0-46c6-aa84-bc3dddf1c35f)
+
 - Launch the game and navigate through the title screen to start playing.
 - Use the 'A' and 'D' keys to move your spaceship left and right, respectively.
 - Press 'S' to shoot at incoming aliens.
@@ -25,7 +30,12 @@ Welcome to the Space Shooter game README! Embark on an exciting journey through 
 - View the instructions page to familiarize yourself with game controls and scoring mechanics.
 - Choose between continuous alien movement or aliens only moving when the spaceship moves, adjusting performance and difficulty accordingly.
 
+## Gameplay:
+- ![3](https://github.com/Usman554433/Space-Shooter/assets/129150855/a5b76e6d-b306-4040-8e13-b7ef3ccbf3a7)
+
 ## Game Over and Victory:
+- ![4](https://github.com/Usman554433/Space-Shooter/assets/129150855/cd71436d-c03c-4bcc-bd72-7a753340da84)
+
 - The game ends when your spaceship loses all lives. You can choose to play again or exit the game.
 - Achieve victory by reaching the target score and earn the chance to play again for higher challenges and scores.
 
