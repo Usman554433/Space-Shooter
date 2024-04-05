@@ -2,7 +2,7 @@
 
 Welcome to the Space Shooter game README! Embark on an exciting journey through space, shooting down aliens and aiming for the highest score. Here's everything you need to know about this thrilling project:
 
-## Project Contributors:aaa
+## Project Contributors:aaaa
 - Syed Usman Ali: l215405@lhr.nu.edu.pk
 - Numair Imtiaz Cheema: l215343@lhr.nu.edu.pk
 - Ahmed Naeem: l211820@lhr.nu.edu.pk
