@@ -1,6 +1,6 @@
 # 🚀 Space Shooter Game 🌌
 
-Welcome to the Space Shooter game README! Embark on an exciting journey through space, shooting down aliens and aiming for the highest score. Here's everything you need to know about this thrilling project:a
+Welcome to the Space Shooter game README! Embark on an exciting journey through space, shooting down aliens and aiming for the highest score. Here's everything you need to know about this thrilling project:aa
 
 ## Project Contributors:
 - Syed Usman Ali: l215405@lhr.nu.edu.pk
