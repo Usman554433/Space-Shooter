@@ -1,4 +1,4 @@
-# 🚀 Space Shooter Game 🌌aa
+# 🚀 Space Shooter Game 🌌a
 
 Welcome to the Space Shooter game README! Embark on an exciting journey through space, shooting down aliens and aiming for the highest score. Here's everything you need to know about this thrilling project:
 
